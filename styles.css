@@ -1,0 +1,17 @@
+   body {
+      background-color: #5BD2F2; 
+   }
+   hr {
+      background-color: black;
+      border-style: none;
+      height: 1.5px;
+   }
+   h1,h3 {
+    color: black;
+    background-color: #EAF6F6;
+   }
+  .main :hover{
+    background-color: gold;
+    color: gold;
+
+  }   
